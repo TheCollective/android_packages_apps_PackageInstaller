@@ -27,8 +27,8 @@
     <string name="install_done" msgid="3682715442154357097">"Appen er installeret."</string>
     <string name="install_confirm_question" msgid="7295206719219043890">"Vil du installere denne applikation? Den får adgang til:"</string>
     <string name="install_confirm_question_no_perms" msgid="5918305641302873520">"Vil du installere denne applikation? Den kræver ingen særlig adgang."</string>
-    <string name="install_confirm_question_update" msgid="4624159567361487964">"Vil du installere en opdatering til den eksisterende applikation? Dine eksisterende data mistes ikke. Den opdaterede applikation får adgang til:"</string>
-    <string name="install_confirm_question_update_system" msgid="1302330093676416336">"Vil du installere en opdatering til den indbyggede applikation? Dine eksisterende data mistes ikke. Den opdaterede applikation får adgang til:"</string>
+    <string name="install_confirm_question_update" msgid="4624159567361487964">"Vil du installere en opdatering til den eksisterende app? Du mister ikke dine eksisterende data. Den opdaterede app kan gøre følgende:"</string>
+    <string name="install_confirm_question_update_system" msgid="1302330093676416336">"Vil du installere en opdatering til den indbyggede app? Du mister ikke dine eksisterende data. Den opdaterede app kan gøre følgende:"</string>
     <string name="install_confirm_question_update_no_perms" msgid="4885928136844618944">"Vil du installere en opdatering til denne eksisterende applikation? Dine eksisterende data vil ikke gå tabt. Det kræver ikke nogen særlig adgang."</string>
     <string name="install_confirm_question_update_system_no_perms" msgid="7676593512694724374">"Vil du installere en opdatering til denne indbyggede applikation? Dine eksisterende data vil ikke gå tabt. Det kræver ikke nogen særlig adgang."</string>
     <string name="install_failed" msgid="6579998651498970899">"Appen blev ikke installeret."</string>
@@ -49,11 +49,11 @@
     <string name="ok" msgid="3468756155452870475">"OK"</string>
     <string name="settings" msgid="6743583734099755409">"Indstillinger"</string>
     <string name="allow_source_dlg_title" msgid="7568985073502399415">"Ny kilde til apps"</string>
-    <string name="allow_source_dlg_text" msgid="3927580956764099076">"<xliff:g id="APP_NAME">%1$s</xliff:g> ønsker at installere andre apps."\n\n"Vil du tillade dette nu og i fremtiden?"</string>
+    <string name="allow_source_dlg_text" msgid="3927580956764099076">"<xliff:g id="APP_NAME">%1$s</xliff:g> ønsker at installere andre apps.\n\nVil du tillade dette nu og i fremtiden?"</string>
     <string name="manage_applications" msgid="4033876279091996596">"Administrer apps"</string>
     <string name="dlg_app_replacement_title" msgid="1232230739563820951">"Vil du udskifte appen?"</string>
-    <string name="dlg_app_replacement_statement" msgid="2992911899989907492">"Den app, du installerer, vil afløse en anden app."\n\n"Alle dine tidligere brugerdata vil blive gemt."</string>
-    <string name="dlg_sys_app_replacement_statement" msgid="1900046590819605929">"Dette er en systemapp."\n\n"Alle dine tidligere brugerdata vil blive gemt."</string>
+    <string name="dlg_app_replacement_statement" msgid="2992911899989907492">"Den app, du installerer, vil afløse en anden app.\n\nAlle dine tidligere brugerdata vil blive gemt."</string>
+    <string name="dlg_sys_app_replacement_statement" msgid="1900046590819605929">"Dette er en systemapp.\n\nAlle dine tidligere brugerdata vil blive gemt."</string>
     <string name="out_of_space_dlg_title" msgid="7843674437613797326">"Der er ikke mere plads"</string>
     <string name="out_of_space_dlg_text" msgid="4774775404294282216">"<xliff:g id="APP_NAME">%1$s</xliff:g> kunne ikke installeres. Frigør noget plads, og prøv igen."</string>
     <string name="dlg_ok" msgid="6944357727705699232">"OK"</string>
